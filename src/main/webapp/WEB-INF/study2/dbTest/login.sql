@@ -6,4 +6,4 @@ desc hoewon;
 
 insert into hoewon (name) values ('ctom');
 
-update hoewon set address = 'seoul' where inx = 5;
+update hoewon set address = 'seoul' where idx = 5;

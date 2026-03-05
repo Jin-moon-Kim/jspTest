@@ -59,7 +59,7 @@
 			      <li><a class="dropdown-item" href="${ctp}/test/Test1">프론트파일 보안연습</a></li>
 			      <li><a class="dropdown-item" href="${ctp}/mapping/Test1">디렉토리 패턴 매핑</a></li>
 			      <li><a class="dropdown-item" href="${ctp}/mapping/___.do">확장자 패턴 매핑</a></li>
-			      <li><a class="dropdown-item" href="${ctp}/mapping/dbTest.db">database</a></li>
+			      <li><a class="dropdown-item" href="${ctp}/mapping/DbTest.db">database</a></li>
 			    </ul>
 			  </div>
 		  </li>
